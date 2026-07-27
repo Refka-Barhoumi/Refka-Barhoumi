@@ -6,7 +6,8 @@
 
 # Hello, folks! 👋
 
-My name is **Refka Barhoumi**, and I'm a university student majoring in **Software Engineering and Information Systems**.  
+I'm a university student majoring in **Software Engineering and Information Systems** with a strong interest in Artificial Intelligence, Software Development and Data Analysis. Passionate about building practical software solutions through hands-on projects and continuous learning.
+
 You can find me on:
 
 <p align="left">
