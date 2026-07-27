@@ -19,6 +19,11 @@ You can find me on:
   <a href="https://www.linkedin.com/in/refka-barhoumi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/>
   </a>
+  &nbsp;
+
+  <a href="https://www.kaggle.com/barhoumirefka" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="25" height="25"/>
+  </a>
 </p>
 
 ---
