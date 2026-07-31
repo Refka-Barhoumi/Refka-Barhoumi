@@ -11,10 +11,6 @@ I'm a university student majoring in **Software Engineering and Information Syst
 You can find me on:
 
 <p align="left">
-  <a href="https://github.com/Refka-Barhoumi" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="25" height="25"/>
-  </a>
-  &nbsp;
 
   <a href="https://www.linkedin.com/in/refka-barhoumi" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/>
@@ -90,22 +86,9 @@ You can find me on:
 
 ---
 
-## 🌍 Languages
-
-- 🇹🇳 Arabic: Native
-- 🇫🇷 French: Intermediate
-- 🇬🇧 English: Fluent
-- 🇹🇷 Turkish: Beginner
-- 🇮🇹 Italian: Beginner
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Refka-Barhoumi">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 
   <a href="https://www.linkedin.com/in/refka-barhoumi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
