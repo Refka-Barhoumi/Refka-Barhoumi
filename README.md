@@ -1,5 +1,3 @@
-# Refka-Barhoumi
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Refka-Barhoumi/Refka-Barhoumi/main/Refka%20Barhoumi_20251008_190944_0000%20(1).png" alt="Header" width="100%" />
 </p>
